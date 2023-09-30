@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774594562052",
+    "project_id": "dribrahim-a807d",
+    "storage_bucket": "dribrahim-a807d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774594562052:android:7b57abc98d64125803cd51",
+        "android_client_info": {
+          "package_name": "com.mohammed.amra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774594562052-c2cqn1kqsdksr4sctvr0hco8d3guosst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9joReYvcMAIx2syP9L0aqjr9jAXicZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774594562052-c2cqn1kqsdksr4sctvr0hco8d3guosst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
